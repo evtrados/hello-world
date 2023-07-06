@@ -2,5 +2,5 @@
 Initial tutorial repo
 
 Resuming the tutorial.
-Test commit amendo
+Test commit amend flag
 
